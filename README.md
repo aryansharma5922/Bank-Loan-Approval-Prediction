@@ -1,4 +1,5 @@
 # Bank Loan Approval Prediction
+[Live Demo](https://bank-loan-approval-prediction-hx4ch6xbngrsod6eq7n9ck.streamlit.app/)
 
 ## Project Overview
 
